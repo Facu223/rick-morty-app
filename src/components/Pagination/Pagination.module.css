@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+}
+
+.center button{
+    border: none;
+    padding: 10px;
+    background-color: rgb(5, 168, 5);
+    color: #fff;
+    cursor: pointer;
+    outline: 1px solid grey;
+    margin-top: 12px;
+}
+
+.center button:hover{
+    background-color: black;
+
+}
